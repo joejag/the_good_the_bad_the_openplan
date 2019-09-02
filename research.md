@@ -1,3 +1,29 @@
+Advice / Hate:
+
+STXNext on reasons:
+https://stxnext.com/blog/2017/09/13/why-open-space-workplace-doesnt-work-developers/
+https://www.fastcompany.com/90285582/everyone-hates-open-plan-offices-heres-why-they-still-exist
+(A 2018 study by Harvard Business School found that open offices reduce face-to-face interaction by about 70% and increase email and messaging by roughly 50%, shattering the notion that they make workers collaborative)
+Good six examples of Apple, Zappos
+
+Sexist: https://www.fastcompany.com/90285582/everyone-hates-open-plan-offices-heres-why-they-still-exist
+Sexist (2): https://www.fastcompany.com/90171697/readers-respond-open-offices-are-terrible-for-women
+
+Predictably terrible article by Atlassian: https://www.atlassian.com/blog/inside-atlassian/how-open-plan-offices-can-actually-work
+(casters on desks is a good idea. Same as Valve do)
+
+
+https://qz.com/806583/programmers-hate-open-floor-plans/
+“The foosball table is right next to my desk in our office. Like, 10 meters away. I feel like I’m slowly going crazy.”
+“Currently quitting a job at an open plan office. My work rate is lower than when I worked at home with my 6 month old daughter.”
+Spoksky talk on the subject referenced
+
+Open classrooms!
+https://www.newyorker.com/business/currency/the-open-office-trap
+
+Plenty of studies:
+https://www.newyorker.com/business/currency/the-open-office-trap
+
 History:
 
 https://k2space.co.uk/knowledge/history-of-office-design/
@@ -17,6 +43,9 @@ https://www.washingtonpost.com/news/the-switch/wp/2015/11/30/what-these-photos-o
 https://www.volarisgroup.com/blog/article/4-reasons-why-open-concept-floor-plans-are-awesome
 
 https://www.interviewqs.com/blog/closed_open_office
+
+Argues remote will kill it anyway plus culture is more important:
+https://www.entrepreneur.com/article/327891
 
 Noise:
 
@@ -50,3 +79,23 @@ Team room:
 
 https://martinfowler.com/bliki/UPod.html
 https://martinfowler.com/bliki/TeamRoom.html
+
+Weird Proud:
+
+https://www.boldare.com/blog/teal-space-for-creativity-and-productivity/
+
+A company:
+
+Apple: https://medium.com/make-better-software/apple-is-about-to-do-something-their-programmers-definitely-dont-want-fc19f5f4487
+
+FogCreek:
+https://www.nytimes.com/2009/02/08/realestate/commercial/08sqft.html
+(no one can see each other, even when standing up)
+
+Zappos:
+https://officesnapshots.com/company/zappos/
+
+Some criterion to use:
+
+Finance, Productivuty, Collaboration, Retention, Executive accessibility
+https://sdtimes.com/softwaredev/for-development-teams-its-time-to-throw-out-the-open-office-plan/
