@@ -277,6 +277,10 @@ Hurt:
 
 ---
 
+![fit](images/2_netflix.png)
+
+---
+
 # Open Office Benefits
 
  ~~Communication~~ ❌
@@ -403,7 +407,7 @@ __(speculation)__
 
 ---
 
-# We can do better
+# We can do so much better
 
 ![](images/4_better.jpg)
 
@@ -449,7 +453,15 @@ __(speculation)__
 
 ---
 
-Scaling
+# Putting it together
+
+* For a team of 8
+* 2 Caves (for solo / pair work)
+* 1 Theatre (for sub team work)
+* 1 Lounge (for informal activities)
+
+![](images/4_scaled.jpg)
+
 
 ---
 
