@@ -38,7 +38,19 @@
 
 ---
 
+![](images/1_frank.mp4)
+
+---
+
 ![](images/1_johnson.jpg)
+
+---
+
+![](images/1_apartment.jpeg)
+
+---
+
+
 
 ---
 
