@@ -403,19 +403,49 @@ __(speculation)__
 
 ---
 
-We can do better
+# We can do better
+
+![](images/4_better.jpg)
 
 ---
 
-Cave
+# Three modes of work
+
+### for collaborative knowledge work
+
+![](images/4_gearstick.jpg)
 
 ---
 
-Theatre
+![right](images/4_cave.jpg)
+
+# The Cave
+
+* 1 or 2 people
+* For concentration and privacy
+* Enclosed, small, desk and two chairs
 
 ---
 
-Lounge
+![left](images/4_theatre.jpg)
+
+# The Theatre
+
+* Subset of team
+* For explicit and incidental knowledge sharing
+* Enclosed, large desk, seats 8 for laptops
+
+
+---
+
+![right](images/4_lounge.jpg)
+
+
+# The Lounge
+
+* Relax and socailise
+* For informal work
+* Sofa, bookcase, coffee machine
 
 ---
 
