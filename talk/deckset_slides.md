@@ -403,6 +403,59 @@ __(speculation)__
 
 ---
 
+We can do better
+
+---
+
+Cave
+
+---
+
+Theatre
+
+---
+
+Lounge
+
+---
+
+Scaling
+
+---
+
+![left](images/4_spotify_rooms.jpg)
+![right](images/4_stx.jpg)
+
+---
+
+Fixing an open plan
+
+---
+
+![](images/4_tw_office.mp4)
+
+---
+
+Influence: Org Leaders
+
+---
+
+Influence: Team leaders
+
+---
+
+Influence: Individuals
+
+---
+
+![fit](images/4_isolator.jpg)
+
+---
+
+##~~office space~~ <br/> __employee space__
+
+---
+
 # What are your questions?
 
 ### __@joe_jag__ - *Joe Wright*
