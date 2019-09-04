@@ -15,6 +15,19 @@
 ![left](images/0_agile.jpg)
 
 ---
+<!--
+
+ __________
+< Part one >
+ ----------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+-->
+
 
 ![](images/1_firstoffice.jpg)
 
@@ -50,9 +63,105 @@
 
 ---
 
-
+![](images/1_buro_inside.jpg)
 
 ---
+
+![](images/1_buro_outline.jpg)
+
+---
+
+![](images/1_sas_hq.jpg)
+
+---
+
+![](images/1_action_office.jpg)
+
+---
+
+![left](images/1_action_office.jpg)
+
+# Research found
+
+* People sit all day, and that isn’t healthy.
+* Most people need places for both private and collaborative work.
+
+---
+
+![left](images/1_action_office.jpg)
+
+# Offices need to have
+
+* Flexible ingredients, with ability rearrange based on office needs.
+* Height adjustable, sit-to-stand desks (health through better blood flow).
+* Dedicated areas for focus, with ability to still see surroundings.
+
+---
+
+![](images/1_would_you_let.jpg)
+
+---
+
+![](images/1_action_growing.jpg)
+
+---
+
+![](images/1_cubicle_farm.jpg)
+
+---
+
+![](images/1_cubicle_farm_growing.jpg)
+
+---
+
+> The cubiclizing of people in modern corporations is monolithic insanity
+--Robert Prost
+
+---
+
+> not all organisations are intelligent. Lots are run by crass people who can take the same kind of equipment and create hellholes. They make little bitty cubicles and stuff people in them. Barren, rat-hole places
+--Robert Prost
+
+---
+
+![](images/1_modern_laptop.jpg)
+
+---
+
+![](images/1_modern_fender.jpg)
+
+---
+
+![](images/1_biophilic.jpg)
+
+---
+
+![left](images/1_johnson.jpg)
+![right](images/1_apartment.jpeg)
+
+---
+
+![left](images/1_action_office.jpg)
+![right](images/1_cubicle_farm_growing.jpg)
+
+---
+
+![](images/1_modern_shit.png)
+
+---
+
+<!--
+
+ __________
+< Part Two >
+ ----------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+-->
 
 # What are your questions?
 
