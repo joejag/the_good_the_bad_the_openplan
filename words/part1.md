@@ -138,6 +138,8 @@ but for the more mechanical work, the working in concert of a number of clerks i
 * Modern offices will have parts for alone work and the house parts to make it look funky but I feel we are still optimising for one type of work. All together or all alone.
 * It's open plan with a house attached to it.
 
+---------------------------------
+
 ### Key Links
 
 History of office design by K2: https://k2space.co.uk/knowledge/history-of-office-design/

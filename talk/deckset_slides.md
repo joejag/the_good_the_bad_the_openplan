@@ -348,6 +348,61 @@ __(speculation)__
 
 ---
 
+<!--
+
+ ____________
+< Part three >
+ ------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+-->
+
+# Open and shut case?
+
+---
+
+![fit](images/3_tweets.png)
+
+---
+
+![fit](images/3_menlo_room.jpg)
+
+---
+
+![fit](images/3_menlo_standup.png)
+
+---
+
+![fit](images/3_menlo_dog.jpeg)
+
+---
+
+> Sometimes the workspace we built 10 days ago is no longer the right workspace, so we change it.
+--Lisamarie Babik (Menlo)
+
+---
+
+> "I think the physical space is critical... I think the space enables the cultural change."
+-- Rich Sheridan (Menlo)
+
+---
+
+![fit](images/3_exp_book.jpg)
+
+---
+
+![fit](images/3_evolution.png)
+
+---
+
+![fit](images/3_experience.png)
+
+---
+
 # What are your questions?
 
 ### __@joe_jag__ - *Joe Wright*

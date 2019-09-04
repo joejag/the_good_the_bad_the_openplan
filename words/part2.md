@@ -1,4 +1,4 @@
-# Part Two: OpenPlan Mythbusters
+# Part Two: Open Plan Mythbusters
 
 ## Why?
 
@@ -99,7 +99,9 @@
 
 > So open and shut case?
 
----
+---------------------------------
+
+### Key Links
 
 Health Benefits: https://www.entrepreneur.com/article/321993
 
