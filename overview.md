@@ -30,17 +30,13 @@ https://www.newyorker.com/business/currency/the-open-office-trap
  * Bonus: Health
  * Why: Saving money (cost per square meter in each city)
    * Why: Flexibility
-
-* High performing teams - psych safety
-  * Need privacy
-
+   
 * But wait, they work in some cases
  * Michigan place, Rich Sheridan (https://www.infoq.com/articles/agile-team-spaces/)
   * https://en.wikipedia.org/wiki/Reticular_formation#Function
   * https://en.wikipedia.org/wiki/Cocktail_party_effect
  * Early Google
  * Westrum: PATHOLOGICAL, BUREAUCRATIC OR GENERATIVE (https://langerman.co.za/cultural-types/)
-
 * Morgan's Evolution model: https://www.youtube.com/watch?v=5Gf4oZAiW0k
  * Experience is tech + space + culture: https://www.youtube.com/watch?v=wQwZyUmzAGY
    (https://www.ringcentral.com/blog/workplace-experience-key-ingredients/)
@@ -52,7 +48,6 @@ https://www.newyorker.com/business/currency/the-open-office-trap
   * Allow it to be redesigned: adapatable
   * Third way space: not quiet, but a noisy team area
   * Have private spaces for calls
-
 * What you can influence
  * Org Leaders: Get cultural anthropologists in (you use UX for customers already)
  * Team leader: Ask to redesign the office space

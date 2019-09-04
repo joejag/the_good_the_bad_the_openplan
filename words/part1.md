@@ -1,4 +1,4 @@
-# A Quick history of the office
+# Part one: A history of the office
 
 ## 1726: The Old Admiralty Office
 
@@ -143,8 +143,5 @@ but for the more mechanical work, the working in concert of a number of clerks i
 History of office design by K2: https://k2space.co.uk/knowledge/history-of-office-design/
 
 BBC article on history: https://www.bbc.co.uk/news/magazine-21878739
-
-New one:
-https://medium.com/interact-software/b%C3%BCrolandschaft-how-the-way-we-work-has-shaped-the-office-e360a53f25e1
 
 History by Morgan Lovell: https://www.morganlovell.co.uk/articles/the-evolution-of-office-design/
