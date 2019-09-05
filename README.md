@@ -1,6 +1,6 @@
 # The Good, the Bad, the Open plan: Creating environments for creative teams
 
-Slides: [PDF](./slides.pdf)|[Markdwon](./talk/deckset_slides.md)
+Slides -> [Markdown](./talk/deckset_slides.md) or [PDF](./slides.pdf)
 
 *"creative types are the toughest"* - Grimaldi Design (1979) - on introducing open plan offices
 
