@@ -15,6 +15,7 @@
 
 * Keys is adapability. Anyone can reposition anything, even the CEO comes in to find his desk has been moved around. It's a huge space they have, so they've chosen to be close together
 * They admit this way of working is not for everyone. They have a chat after 3 weeks where they decide if they both want to continue. But their culture has totally overcome the problems with open plan spaces.
+* Only 43 employees
 
 ## Menlo Rich quote
 

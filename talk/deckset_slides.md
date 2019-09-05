@@ -163,7 +163,7 @@
 
 -->
 
-# Why?
+![](images/1_why.jpeg)
 
 ---
 
@@ -180,6 +180,8 @@
 # Communication
 
 ### People sitting all together will have more chances to communicate
+
+![](images/1_communication.png)
 
 ---
 
@@ -209,6 +211,8 @@
 
 ### Working together to complete<br/> a goal
 
+![](images/1_collaboration.jpg)
+
 ---
 
 ### Matthew Davis (2011)
@@ -236,7 +240,9 @@ Hurt:
 
 ### A test of your working environment
 
-## Do you have to go to a room to have an impromptu meeting?
+## Do you have to go to a room to have an impromptu <br/>team meeting?
+
+![](images/1_meeting_room.jpeg)
 
 ---
 
@@ -253,6 +259,8 @@ Hurt:
 # Equality
 
 ### Removing the hierarchy of offices
+
+![](images/1_equality.jpeg)
 
 ---
 
@@ -295,6 +303,9 @@ Hurt:
 
 ### It's healthier than sitting isolated all day
 
+![](images/1_health.svg)
+
+
 ---
 
 # It's true!
@@ -307,7 +318,9 @@ Hurt:
 
 ## Danish Ministry of Employment (2013)
 
-### *Occupants in open plan offices (more than six people) had 62% more days of sickness absence*
+### Occupants in open plan offices (more than six people) had 62% more days of sickness absence*
+
+![fit](images/1_denmark.png)
 
 ---
 
@@ -335,6 +348,9 @@ __(speculation)__
 # Cost
 
 ### Real estate is a cost you can reduce
+
+![](images/1_cost.png)
+
 
 ---
 
@@ -366,6 +382,8 @@ __(speculation)__
 -->
 
 # Open and shut case?
+
+![](images/2_lawyer.png)
 
 ---
 
@@ -561,7 +579,6 @@ __(speculation)__
 ![fit](images/4_isolator.jpg)
 
 ---
-
 
 ##~~office space~~ <br /> ↓
 # __employee space__
