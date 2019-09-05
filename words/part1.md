@@ -92,6 +92,7 @@ but for the more mechanical work, the working in concert of a number of clerks i
 
 ## Action growing
 
+* Herman Mille went from designing the office to selling the parts. Of course companies decided to buy the cheapest bits, the walls.
 * Over time, every worker ended up with their own workstation and walls grew to combat noise
 * But again, these were offices designed by architects who cared about the work and the workers inside them.
 

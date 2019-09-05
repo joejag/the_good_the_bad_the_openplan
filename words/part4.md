@@ -34,9 +34,11 @@
 
 * If you can't put up walls. The next best thing is to fix your open plan
 * Make barries like Burolandschaft out of plants and movable partitions. You need to reduce the noise, which may involve removing a bank of desks to make space. This becomes your theatre.
+* If you can, introduce some white noise by a water feature or something similar to mask over people talking.
+
 * Have small booths nearby for private chats.
 * Above all, keep it adaptable. Use tables on casters, keep plug sockets in the air rather than under desks.
-* If you can, introduce some white noise by a water feature or something similar to mask over people talking.
+
 
 > If your office is very high rent, like London or Hong Kong you can still do some things.
 
@@ -70,3 +72,5 @@ Video.
 STX Next experience moving to team rooms: https://stxnext.com/blog/2017/09/13/why-open-space-workplace-doesnt-work-developers/ 
 
 Bob Marshall on Ideal software development spaces: https://flowchainsensei.wordpress.com/2014/11/01/workspaces/
+
+How to fix open plan: https://www.azuremagazine.com/article/open-plan-office-problems/

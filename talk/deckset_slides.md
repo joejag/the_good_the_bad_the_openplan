@@ -115,12 +115,12 @@
 ---
 
 > The cubiclizing of people in modern corporations is monolithic insanity
---Robert Prost
+--Robert Propst
 
 ---
 
 > not all organisations are intelligent. Lots are run by crass people who can take the same kind of equipment and create hellholes. They make little bitty cubicles and stuff people in them. Barren, rat-hole places
---Robert Prost
+--Robert Propst
 
 ---
 
@@ -407,6 +407,19 @@ __(speculation)__
 
 ---
 
+<!--
+
+ __________
+< Part four >
+ ----------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+-->
+
 # We can do so much better
 
 ![](images/4_better.jpg)
@@ -457,7 +470,7 @@ __(speculation)__
 
 * For a team of 8
 * 2 Caves (for solo / pair work)
-* 1 Theatre (for sub team work)
+* 1 Theatre (for subset team work)
 * 1 Lounge (for informal activities)
 
 ![](images/4_scaled.jpg)
@@ -470,7 +483,40 @@ __(speculation)__
 
 ---
 
-Fixing an open plan
+# Fixing an <br/>open plan
+
+![](images/4_bob.jpg)
+
+---
+
+# Noise
+
+* Think Burolandschaft
+* Remove a bank of desks to make space
+* Put up acoustic walls
+* Use plants as a wall
+* Consider adding 'pink noise'
+
+![left](images/4_acoustic_wall.jpg)
+
+---
+
+# Create caves
+
+* Allow solo work
+* Allow pairs to work
+
+![left](images/4_booth.jpg)
+
+---
+
+# Use Adapatable furniture
+
+* Above all, keep it adaptable
+* Use tables with casters
+* Consider having power sockets above the desks
+
+![right](images/4_movable.jpg)
 
 ---
 
@@ -478,15 +524,37 @@ Fixing an open plan
 
 ---
 
-Influence: Org Leaders
+![fit](images/4_what_can_i_do.jpg)
+
 
 ---
 
-Influence: Team leaders
+# Org Leaders
+
+* Use cultural anthropologists
+* Realise reducing space per emmployee comes at a high cost
+
+![left](images/4_org_leaders.jpg)
 
 ---
 
-Influence: Individuals
+# Team leaders
+
+* Ask to redesign your area. Add noise barriers
+* Steal a room
+
+![right](images/4_team_leaders.jpg)
+
+---
+
+# Individuals
+
+* Influence your leaders.
+* Offer solutions
+* Use the examples of other companies
+
+![](images/4_individuals.png)
+
 
 ---
 
@@ -494,11 +562,13 @@ Influence: Individuals
 
 ---
 
-##~~office space~~ <br/> __employee space__
+
+##~~office space~~ <br /> ↓
+# __employee space__
 
 ---
 
 # What are your questions?
 
 ### __@joe_jag__ - *Joe Wright*
-#### https://github.com/joejag/timebandits
+#### https://github.com/joejag/the\_good\_the\_bad\_the\_openplan
