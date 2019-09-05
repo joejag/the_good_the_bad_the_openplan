@@ -1,6 +1,6 @@
 ## *The Good, the Bad, <br/>the Open plan*
 
-### Creating environments for creative teams
+### Creating environments for collaborative knowledge work
 
 ### *Joe Wright*
 #### __@joe_jag__
@@ -62,6 +62,8 @@
 ![](images/1_apartment.jpeg)
 
 ---
+
+## Burolandschaft
 
 ![](images/1_buro_inside.jpg)
 
@@ -125,6 +127,10 @@
 ---
 
 ![](images/1_modern_laptop.jpg)
+
+---
+
+![](images/1_submarine.jpg)
 
 ---
 

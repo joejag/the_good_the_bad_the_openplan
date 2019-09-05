@@ -60,18 +60,15 @@ but for the more mechanical work, the working in concert of a number of clerks i
 * The 50s ad 60s brough a socially democractic vibe which looked to create a greater degree of human interaction and engagement
 * Two brothers who were furniture designers wanted to rebel against the scietific method of strict grids and desks with something organic and natural with the individual as focus.
 * The style became known as Burolandschaft, which means 'office landscape' after it's propogators in Hamburg, Germany.
-
 * A key part of it was non-hierarchical, managers had previously been in separate offices, now they were sitting with their teams
 * They used lower than standard occupancy levels too, to deal with the noise problem
-* Desks were arranged according to roles and functions, so it wasn't “one size fits all”
-
 * Rather than walls, plastic plants and dividers were used. It was open plan, but not as we knew it. Another novel introduction was carpet.
 
+
+* Desks were arranged according to roles and functions, so it wasn't “one size fits all”
 * For the first time a break room was introduced. This replaced a coffee cart called "The Crystal Palace" which circulated at specific hours
 * Hugely succesful in Northern Europe as they didn't involve walls and it was easy to scale staff numbers up or down
-
 * Not random. "The layout was based upon an intensive study of patterns of communication - between different parts of the organisation, different individuals," Duffy.
-* It encouraged disclosure, discussion and debate
 
 > All that was left, was to convince the americans on the idea.
 
@@ -103,6 +100,7 @@ but for the more mechanical work, the working in concert of a number of clerks i
 * An emphasis on profitability over working conditions dominated through the 80s. Creating the much miligned Cubicle Farms. Taken to dystopian limits
 * This "stack up high, sell em cheap" world view took over completely. There was some attempt at humanizing by asking folk what colour they wanted their 6ft wall to be, but that was it.
 * When cubicle farms came to Germany there was uproar. As part of the "co-determination" movement, the government past a bill enshining the right to at least 28 sq mt space and natural sunlight, which persists to this day. It killed cubicle farms, but also Burolandschaft. Coupled with cheap real estate, German's enjoy the most space in Europe. Bulgaria has the least space in Europe.
+* 6 foot 5 dude can talk
 
 ## Pabst responds
 
