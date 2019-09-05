@@ -1,5 +1,7 @@
 # The Good, the Bad, the Open plan: Creating environments for creative teams
 
+[Slides for the talk](./slides.pdf)
+
 *"creative types are the toughest"* - Grimaldi Design (1979) - on introducing open plan offices
 
 The way we work has evolved at the same breakneck pace as where we work. We've torn down the cubicle farms and replaced them with seas of open plan offices. But, was that a good idea? How can we tell?
@@ -22,3 +24,4 @@ This talk covers:
 * Highlights from scientific papers that prove the standard form of Open Plan doesn't work (they used wearables to measure conversations)
 * What creative people need from an office to be effective
 * What you can do to improve your office environment
+
