@@ -10,7 +10,7 @@
 ---
 
 > *Build projects around motivated individuals. Give them the* environment *and support they need, and trust them to get the job done.*
---5th priniciple of the Agile Manifesto
+--5th principle of the Agile Manifesto
 
 ![left](images/0_agile.jpg)
 
@@ -192,7 +192,6 @@
 ![left fit](images/2_badge.jpg)
 
 * 73% less time spent in face-to-face interactions
-* 79% of people reduced number of interactions
 * 67% more email and instant message interactions
 
 ---
@@ -232,7 +231,7 @@ Hurt:
 
 ![right](images/2_headphones.jpg)
 
-* Over 60% wear heaphones in<br/> open plan enivornment
+* Over 60% wear headphones in<br/> open-plan environment
 * Anxious to look busy
 * Hotdesking disrupts teams working together
 
@@ -301,7 +300,7 @@ Hurt:
 
 # Health
 
-### It's healthier than sitting isolated all day
+### It's healthier than sitting isolated all-day
 
 ![](images/1_health.svg)
 
@@ -318,7 +317,7 @@ Hurt:
 
 ## Danish Ministry of Employment (2013)
 
-### Occupants in open plan offices (more than six people) had 62% more days of sickness absence*
+### Occupants in open-plan offices (more than six people) had 62% more days of sickness absence*
 
 ![fit](images/1_denmark.png)
 
@@ -328,7 +327,7 @@ Hurt:
 
 __(speculation)__
 
-* higher noise exposure in the open plan office
+* higher noise exposure in the open-plan office
 * more likely to be exposed to viruses
 * Lack of privacy causes problems and sickness
 * Reduced autonomy, leading to higher stress levels
@@ -478,7 +477,7 @@ __(speculation)__
 
 # The Lounge
 
-* Relax and socailise
+* Relax and socialise
 * For informal work
 * Sofa, bookcase, coffee machine
 
@@ -487,8 +486,8 @@ __(speculation)__
 # Putting it together
 
 * For a team of 8
-* 2 Caves (for solo / pair work)
-* 1 Theatre (for subset team work)
+* 2 Caves (for solo/pair work)
+* 1 Theatre (for subset teamwork)
 * 1 Lounge (for informal activities)
 
 ![](images/4_scaled.jpg)
@@ -528,7 +527,7 @@ __(speculation)__
 
 ---
 
-# Use Adapatable furniture
+# Use Adaptable furniture
 
 * Above all, keep it adaptable
 * Use tables with casters
@@ -550,7 +549,7 @@ __(speculation)__
 # Org Leaders
 
 * Use cultural anthropologists
-* Realise reducing space per emmployee comes at a high cost
+* Realise reducing space per employee comes at a high cost
 
 ![left](images/4_org_leaders.jpg)
 
