@@ -1,14 +1,12 @@
-# The Good, the Bad, the Open plan: Creating environments for creative teams
+# The good, the bad, the open-plan: Creating environments for collaborative knowledge work
 
 Slides -> [Markdown](./talk/deckset_slides.md) or [PDF](./slides.pdf)
 
-*"creative types are the toughest"* - Grimaldi Design (1979) - on introducing open plan offices
+The way we work has evolved at the same breakneck pace as where we work. We've torn down the cubicle farms and replaced them with seas of open-plan offices. But is this a great way to create an environment for software development? Can we do better?
 
-The way we work has evolved at the same breakneck pace as where we work. We've torn down the cubicle farms and replaced them with seas of open plan offices. But, was that a good idea? How can we tell?
+In this talk, you'll discover how we arrived at the current office, from the Admiralty to Bürolandschaft and beyond. We'll look at scientific studies which measure the impact of different environments, allowing us to understand the trade-offs and see how culture has a surprising role to play. 
 
-In this talk, we'll hear from scientific studies which measured the real impact of moving to open plan, scrutinising their acclaimed benefits and notorious drawbacks. We'll cover the alternatives that are on offer and what we can do to create an excellent space for our creative teams. 
-
-Most of us can't directly change our office environment, but you'll hear how to influence it and learn the difference between your Bürolandschaft and your Biophilic offices along the way.
+Armed with history and science on our side, we'll then look at what we can do to create an excellent space for our creative teams and the different ways they work.
 
 Headphones are not required.
 
