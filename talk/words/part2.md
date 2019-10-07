@@ -16,7 +16,7 @@
 
  * People sitting all together will have more chances to communicate
  * Seems reasonable. You have more chances to interact!
- * Some evidence from three studies 10 years ago that measured email and IM usage before and after moving office styles. All showed a massive increase and assumed f2f went down
+ * Some evidence from two studies 10 years ago that measured email and IM usage before and after moving office styles. All showed a massive increase and assumed f2f went down
 
  > It would be great to have a way to measure f2f as well right?
 
@@ -94,6 +94,7 @@
 ## Open Office Benefits
 
 * So office space cost I'll give. But I'd ask. At what cost?
+* You could move your family of four into a studio apartment to save cost too!
 * Every team I see in an open plan, with other teams mixed in, is hamstrung in some way
 * They don't engage in as much productive conflict and don't spend as much time sharing knowledge with each other
 

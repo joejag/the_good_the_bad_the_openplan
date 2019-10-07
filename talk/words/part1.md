@@ -54,7 +54,7 @@ but for the more mechanical work, the working in concert of a number of clerks i
 
 > Thankfully the German's were around to help us out
 
-## Burolandschaft (beauru land shaft)
+## Bürolandschaft (beauru land shaft)
 
 * "fundamentally a reaction against Nazism"
 * The 50s ad 60s brough a socially democractic vibe which looked to create a greater degree of human interaction and engagement
@@ -64,11 +64,15 @@ but for the more mechanical work, the working in concert of a number of clerks i
 * They used lower than standard occupancy levels too, to deal with the noise problem
 * Rather than walls, plastic plants and dividers were used. It was open plan, but not as we knew it. Another novel introduction was carpet.
 
+## Buro map
 
+* Not random. "The layout was based upon an intensive study of patterns of communication - between different parts of the organisation, different individuals," Duffy.
 * Desks were arranged according to roles and functions, so it wasn't “one size fits all”
 * For the first time a break room was introduced. This replaced a coffee cart called "The Crystal Palace" which circulated at specific hours
+
+## Buro SAS
+
 * Hugely succesful in Northern Europe as they didn't involve walls and it was easy to scale staff numbers up or down
-* Not random. "The layout was based upon an intensive study of patterns of communication - between different parts of the organisation, different individuals," Duffy.
 
 > All that was left, was to convince the americans on the idea.
 
@@ -76,6 +80,7 @@ but for the more mechanical work, the working in concert of a number of clerks i
 
 * Robert Propst, head of research at Herman Miller based in the USA, was an early advocate of Burolandschaft and further developed it into the "Action Office"
 * This method required more space for modular furniture designed for the task at hand. The individuals workspace became bigger and enclosed, with plenty of meeting spaces around where they worked.
+* They researched how offices were used in detail finding that folk are being uhealthy, need separate space for collaboartion and private work
 
 > One of the areas this was to help, was to do with the influx of women into the workplace
 
@@ -89,9 +94,14 @@ but for the more mechanical work, the working in concert of a number of clerks i
 
 ## Action growing
 
-* Herman Mille went from designing the office to selling the parts. Of course companies decided to buy the cheapest bits, the walls.
 * Over time, every worker ended up with their own workstation and walls grew to combat noise
 * But again, these were offices designed by architects who cared about the work and the workers inside them.
+
+> Herman Mille went from designing the office to selling the parts. Of course companies decided to buy the cheapest bits, the walls.
+
+## Action fail
+
+* But noise was a concren, so...
 
 > You can guess what happened next
 
@@ -99,7 +109,7 @@ but for the more mechanical work, the working in concert of a number of clerks i
 
 * An emphasis on profitability over working conditions dominated through the 80s. Creating the much miligned Cubicle Farms. Taken to dystopian limits
 * This "stack up high, sell em cheap" world view took over completely. There was some attempt at humanizing by asking folk what colour they wanted their 6ft wall to be, but that was it.
-* When cubicle farms came to Germany there was uproar. As part of the "co-determination" movement, the government past a bill enshining the right to at least 28 sq mt space and natural sunlight, which persists to this day. It killed cubicle farms, but also Burolandschaft. Coupled with cheap real estate, German's enjoy the most space in Europe. Bulgaria has the least space in Europe.
+* When cubicle farms came to Germany there was uproar. As part of the "co-determination" movement, the government past a bill enshining the right to at least 28 sq mt space and natural sunlight, which persists to this day. It killed cubicle farms, but also Burolandschaft. Coupled with cheap real estate, German's enjoy the most space in Europe.
 * 6 foot 5 dude can talk
 
 ## Pabst responds
@@ -116,6 +126,9 @@ but for the more mechanical work, the working in concert of a number of clerks i
 
 * With wifi and laptops, people aren't as tied to their desks as they had been before.
 * People can work from cafes, hotels and from home.
+
+## Hotdesking
+
 * Hot desking was taken from the navy. Where it reepesents the idea of only having enough beds for half your crew. The 'hot' part is there because when you got into it it was already warm.
 
 ## Modernity - living room

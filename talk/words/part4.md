@@ -1,8 +1,7 @@
 # We can do better
 
-* Hot desking, biophilic environments and break out areas are all good inventions.
-* Unless you have a specialised culture, I'd avoid putting separate teams in the same room to avoid the drawbacks of open plan
-* software development is a form of collaborative knowledge work. At best, we are constantly learning and sharing that knowledge. It's tempting to say the design studio approach is best, but that still is suspectible to the idea of one form wins all.
+* Unless you have a specialised culture, I'd avoid putting separate teams in the same room to avoid the drawbacks of open plan (heavy transparency for Joy Inc)
+* software development is a form of collaborative knowledge work. At best, we are constantly learning and sharing that knowledge. It's tempting to say the design studio approach is best, but that still is suspectible to the idea of one mode of working wins all.
 
 > Software dev ebbs and flows between different modes throughout the day
 
@@ -30,15 +29,15 @@
 * For more teams in the same area, add more caves and theatres and share the lounge.
 * Examples at Spotify and STX Next.
 
+> If you can't put up walls. The next best thing is to fix your open plan
+
 ## Fixing an open plan
 
-* If you can't put up walls. The next best thing is to fix your open plan
 * Make barries like Burolandschaft out of plants and movable partitions. You need to reduce the noise, which may involve removing a bank of desks to make space. This becomes your theatre.
 * If you can, introduce some white noise by a water feature or something similar to mask over people talking.
 
 * Have small booths nearby for private chats.
 * Above all, keep it adaptable. Use tables on casters, keep plug sockets in the air rather than under desks.
-
 
 > If your office is very high rent, like London or Hong Kong you can still do some things.
 

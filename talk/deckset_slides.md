@@ -63,7 +63,7 @@
 
 ---
 
-## Burolandschaft
+## Bürolandschaft
 
 ![](images/1_buro_inside.jpg)
 
@@ -323,7 +323,7 @@ Hurt:
 
 ## Danish Ministry of Employment (2013)
 
-### Occupants in open-plan offices (more than six people) had 62% more days of sickness absence*
+### *Occupants in open-plan offices (more than six people) had 62% more days of sickness absence*
 
 ![fit](images/1_denmark.png)
 
@@ -514,7 +514,7 @@ __(speculation)__
 
 # Noise
 
-* Think Burolandschaft
+* Think Bürolandschaft
 * Remove a bank of desks to make space
 * Put up acoustic walls
 * Use plants as a wall
@@ -590,7 +590,7 @@ __(speculation)__
 
 ---
 
-# What are your questions?
+# Thanks!
 
 ### __@joe_jag__ - *Joe Wright*
 #### https://github.com/joejag/the\_good\_the\_bad\_the\_openplan
