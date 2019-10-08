@@ -290,10 +290,6 @@ Hurt:
 
 ---
 
-![fit](images/2_netflix.png)
-
----
-
 # Open Office Benefits
 
  ~~Communication~~ ❌
